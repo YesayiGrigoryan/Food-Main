@@ -896,6 +896,9 @@ body {
   .storry__img img {
     min-width: 130px;
   }
+  .header__text {
+    top: 157px;
+  }
   .top1 {
     height: 500px;
   }
