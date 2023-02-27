@@ -758,6 +758,9 @@ body {
   .nav .list {
     display: none;
   }
+  .header__text {
+    top: 160px;
+  }
   .contener {
     width: 95%;
   }
